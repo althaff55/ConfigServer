@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Api1
+  boot:
+    admin:
+      client:
+        url: http://localhost:1111/
