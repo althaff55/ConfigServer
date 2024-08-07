@@ -1,6 +1,9 @@
 spring:
   application:
     name: Api1
+  cloud:
+     compatibility-verifier:
+       enabled: false  
   boot:
     admin:
       client:
